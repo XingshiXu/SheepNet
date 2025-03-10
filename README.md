@@ -11,7 +11,7 @@ Ph.D. candidate [Xingshi Xu](https://orcid.org/0000-0002-6687-6975), Prof. [**Hu
 ![中文海报](https://github.com/XingshiXu/SheepNet/blob/main/Poster_Chinese.jpg)
   
 ## **3. Dataset**   
-To find the dataset used in this study, please make sure all files are downloaded from Google Drive  
+To find the dataset used in this study, please make sure all files are downloaded from [Google Drive](https://drive.google.com/drive/folders/1nt2-sccBekM6PBtjKPmcP0YlvqtmJ6aH?usp=sharing)  
 (Because the relevant funding projects of this study are still ongoing, the complete data set remains under protection. Therefore, at this stage, we released part of the data set.)  
   
   
