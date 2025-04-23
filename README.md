@@ -16,6 +16,15 @@ Ph.D. candidate [Xingshi Xu](https://orcid.org/0000-0002-6687-6975), Prof. [**Hu
 To find the dataset used in this study, please make sure all files are downloaded from [Google Drive](https://drive.google.com/drive/folders/1nt2-sccBekM6PBtjKPmcP0YlvqtmJ6aH?usp=sharing)  
 (Because the relevant funding projects of this study are still ongoing, the complete data set remains under protection. Therefore, at this stage, we released part of the data set.)  
   
+## **4. Founding**   
+* National Key R&D Program of China (No.2024YFD1300600)  
+* National Key R&D Program of China (No.2023YFD1301800)  
+* National Natural Science Foundation of China (No.32272931)  
+* National Natural Science Foundation of China (No.32472964)  
+* Key R&D Program of Ningxia Hui Autonomous Region (No.2024BBF02029)  
+* Shaanxi Province Agricultural Key Core Technology Project (No. 2024NYGG005)  
+* Shaanxi Province Key R&D Program (No. 2024NC-ZDCYL-05-12).  
+
   
 We thank the potential Reviewers and readers for their attention. Best wishes for you!  
-我们感谢潜在审稿人及读者给予的关注，祝工作开心，科研顺利，生活幸福！  
+我们感谢潜在审稿人及读者给予的关注，祝您工作开心，科研顺利，生活幸福！  
